@@ -1,0 +1,8 @@
+.bar rect {
+  fill: darkturquoise;
+}
+
+.bar text {
+  fill: #fff;
+  font: 10px sans-serif;
+}
